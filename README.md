@@ -9,7 +9,7 @@ Tengo experiencia en el desarrollo de Aplicaciones Web, en las que implementado 
 
 
 ```javascript
-const technicalSkills  = {
+const technicalSkills = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, Java],
    technologies: {
@@ -26,10 +26,10 @@ const technicalSkills  = {
       },
       databases: ["MongoDB", "MySQL"],
    },
-   so: {
-      commandLineOfLinux: true
+   systemOperative: {
+      domainCommandLineOfLinux: true,
    }
-   ágile: ["Scrum", "Kanban"]
+   methodologyAgile: ["Scrum", "Kanban"]
 };
 ```
 
