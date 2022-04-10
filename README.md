@@ -18,7 +18,7 @@ const technicalSkills  = {
          css: ["Bootstrap", "Material UI", "TailwindCSS"]
       },
       backEnd: {
-         node.js: ["Express", Next.js", "Nest.js"],
+         node.js: ["Express", "Next.js", "Nest.js"],
          java: [{
             springBoot: "MVC", 
             springBoot: "WebFlux"}
