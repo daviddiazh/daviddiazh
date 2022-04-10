@@ -35,10 +35,11 @@ const technicalSkills  = {
 
 
 ## Estadísticas
-
+<!---
 <p align="center">
     <img align="center" alt="David Diaz Herrera GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daviddiazh&show_icons=true&count_private=true" />
 </p>
+--->
 
 <p align="center">
     <img align="center" alt="David Diaz Herrera GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddiazh&layout=compact" />
