@@ -3,9 +3,9 @@
 # 👋 Hi, I’m David Diaz!
 
 
-Soy un joven apasionado por la programación web y el cosmos de la tecnología en general. Así mismo, me encanta escribir código buscando la forma de generar o aportar valor en la sociedad. 
+ 🙎‍♂️ 👨‍💻 Soy un joven apasionado por la programación web y el cosmos de la tecnología en general. Así mismo, me encanta escribir código buscando la forma de generar o aportar valor en la sociedad. 
 
-Tengo experiencia en el desarrollo de Aplicaciones Web, en las que implementado diversas tecnologías que he aprendido empiricamente.
+Tengo experiencia en el desarrollo de Aplicaciones Web, en las que implementado diversas tecnologías que he aprendido empiricamente 📚💻.
 
 
 ```javascript
@@ -15,7 +15,7 @@ const technicalSkills  = {
    technologies: {
       frontEnd: {
          js: ["React", "Next.js"],
-         css: ["Bootstrap", "Material UI", "TailwindCSS"]
+         css: ["Bootstrap", "Material UI", "TailwindCSS", "CSS"]
       },
       backEnd: {
          node.js: ["Express", "Next.js", "Nest.js"],
