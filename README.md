@@ -15,7 +15,7 @@ const technicalSkills = {
    technologies: {
       frontEnd: {
          js: ["React", "Next.js"],
-         css: ["Bootstrap", "Material UI", "TailwindCSS", "CSS"]
+         css: ["Material UI", "TailwindCSS", "CSS"]
       },
       backEnd: {
          node.js: ["Express", "Next.js", "Nest.js"],
