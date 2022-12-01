@@ -11,14 +11,15 @@ Tengo experiencia en el desarrollo de Aplicaciones Web, en las que implementado 
 ```javascript
 const technicalSkills = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, Java],
+   code: [JavaScript, TypeScript, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Next.js"],
-         css: ["Material UI", "TailwindCSS", "CSS"]
+         js: ["React", "React Native", "Next.js",],
+         css: ["Material UI", "TailwindCSS", "CSS",]
+         HTML,
       },
       backEnd: {
-         node.js: ["Express", "Next.js", "Nest.js"],
+         node.js: ["Express", "Nest.js"],
          java: [{
             springBoot: "MVC", 
             springBoot: "WebFlux"}
