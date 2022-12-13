@@ -13,6 +13,7 @@ const technicalSkills = {
    pronouns: "he" | "him",
    code: [JavaScript, TypeScript, Java],
    technologies: {
+      GraphQL,
       frontEnd: {
          js: ["React", "React Native", "Next.js",],
          css: ["Material UI", "TailwindCSS", "CSS",]
