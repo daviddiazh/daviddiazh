@@ -26,12 +26,12 @@ const technicalSkills = {
             springBoot: "WebFlux"}
          ]
       },
-      databases: ["MongoDB", "MySQL"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL", "ORM", "ODM"],
    },
    systemOperative: {
       domainCommandLineOfLinux: true,
    }
-   methodologyAgile: ["Scrum", "Kanban"]
+   agileMethodolies: ["Scrum", "Kanban"]
 };
 ```
 
